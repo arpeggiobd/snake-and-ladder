@@ -1,3 +1,81 @@
+#legend {
+    position: absolute;
+    top: 25px;
+    left: 600px;
+    width: 300px;
+    height: 200px;
+    background-color: grey;
+}
+
+.red {
+    position:absolute;
+    top: 10px;
+    left: 25px;
+    width: 50px;
+    height: 25px;
+    background-color: red;
+}
+
+.redText {
+    position:absolute;
+    top: -5px;
+    left: 80px;
+    font-weight: 700;   
+}
+
+.green {
+    position:absolute;
+    top: 45px;
+    left: 25px;
+    width: 50px;
+    height: 25px;
+    background-color: green;
+}
+
+.greenText {
+    position:absolute;
+    top: 35px;
+    left: 80px;
+    font-weight: 700;
+}
+
+.yellowCircle {
+    position: absolute;
+    top: 85px;
+    left: 25px;
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    border: 1px solid;
+    background-color: yellow;
+}
+
+.yellowCircleText {
+    position:absolute;
+    top: 80px;
+    left: 80px;
+    font-weight: 700;
+}
+
+.blueCircle {
+    position: absolute;
+    top: 135px;
+    left: 25px;
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    border: 1px solid;
+    background-color: blue;
+}
+
+.blueCircleText {
+    position:absolute;
+    top: 130px;
+    left: 80px;
+    font-weight: 700;
+}
+
+
 #board {
     position: absolute;
     top: 50px;
